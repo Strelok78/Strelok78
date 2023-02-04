@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Strelok78
-- 👀 I’m interested in software development and computer science
-- 🌱 I’m currently learning Swift
+- 👋 Hi, I’m @Shota
+- 👀 I’m interested in Game Developmnt and Game Design
+- 🌱 I’m currently learning C# and Unity
 - 📫 How to reach me eg.shota@gmail.com
 
 <!---
