@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Shota
 - 👀 I’m interested in Game Developmnt! Also I am quite good at being DM in D&D 😄
 - 🌱 I’m currently learning C# and Unity, improving my English skills in order to pass IELTS in foreseeable future 👨‍🎓
-- 📫 How to reach me eg.shota@gmail.com
+- 📫 How to reach me eg.shota@gmail.com or eg.shota@yandex.ru
 
 - Here is my resume: https://disk.yandex.ru/i/dWU9tq6xa0U22w
-
-<!---
-Strelok78/Strelok78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Here you can find presentation with all my developed projects so far: https://docs.google.com/presentation/d/14xbgAHztCrp6nQxLT9nyTqLUZ69OdEmf1_jhEBAfMIY/edit?usp=sharing
+- Here are my C# code examples: https://gist.github.com/Strelok78
