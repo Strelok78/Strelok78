@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shota
-- 👀 I’m interested in Game Developmnt! Also I like being DM in D&D 😄
-- 🌱 I’m currently learning C# and Unity 👨‍🎓
+- 👀 I’m interested in Game Developmnt! 
+- 🧙‍♂️ As a hobbie I like being DM in D&D 
+- 👨‍🎓 I’m currently learning C# and Unity 
 - 📫 How to reach me eg.shota@gmail.com or eg.shota@yandex.ru
 
 - Here is my resume: https://disk.yandex.ru/i/dWU9tq6xa0U22w
